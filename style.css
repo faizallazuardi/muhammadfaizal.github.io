@@ -12,29 +12,23 @@
 .jumbotron {
   padding-top: 5rem;
   background: linear-gradient(to bottom, #92e1e2, #72b2e4);
-  position: relative;
 }
 
 .jumbotron img {
-  width: 200px;
-  height: 180px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 1.5rem;
-}
-
-.jumbotron .bentuk {
-  position: absolute;
-  z-index: 9999;
-  top: 0;
-  left: 0;
+  border: 2px solid white;
+  border-radius: 50%;
 }
 
 /* aksinya dijalankan setelah lewat min-widthnya*/
-/* @media (min-width: 768px) {
+@media (min-width: 768px) {
   .jumbotron img {
-    width: 200px;
-    height: 180px;
+    width: 250px;
+    height: 250px;
   }
-} */
+}
 
 section h1 {
   text-align: center;
