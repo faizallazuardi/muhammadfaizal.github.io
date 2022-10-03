@@ -21,7 +21,7 @@
   margin-bottom: 1.5rem;
 }
 
-.jumbotron span {
+.jumbotron .bentuk {
   position: absolute;
   z-index: 9999;
 }
