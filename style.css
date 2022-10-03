@@ -23,6 +23,7 @@
 
 .jumbotron span {
   position: absolute;
+  z-index: 9999;
 }
 
 /* aksinya dijalankan setelah lewat min-widthnya*/
