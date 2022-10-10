@@ -116,5 +116,5 @@ section#contact .sosmed {
   flex-direction: column;
   /* flex-wrap: wrap; */
   align-items: flex-start;
-  justify-content: center;
+  justify-content: space-evenly;
 }
