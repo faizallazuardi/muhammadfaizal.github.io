@@ -89,6 +89,7 @@ section#skill .konten img {
   section#skill .konten img {
     width: 130px;
     margin-bottom: 30px;
+    margin-left: 10px;
     box-shadow: 0 5px 5px white;
   }
 }
