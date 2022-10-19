@@ -75,6 +75,28 @@ section#skill {
   background: linear-gradient(to bottom, #92e1e2, #72b2e4);
 }
 
+section#skill .konten img {
+  box-shadow: 0 5px 5px white;
+}
+
+@media (max-width: 768px) {
+  section#skill .konten {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  section#skill .konten img {
+    width: 120px;
+    margin-bottom: 30px;
+    box-shadow: 0 5px 5px white;
+  }
+}
+
+/* section#skill .konten .row {
+  box-shadow: 0px 5px 5px white;
+} */
+
 section#contact {
   background-color: #f0f8ff;
 }
