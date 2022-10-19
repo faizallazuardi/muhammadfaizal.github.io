@@ -23,7 +23,7 @@
 }
 
 /* aksinya dijalankan setelah lewat min-widthnya*/
-@media (min-width: 768px) {
+@media (min-width: 600px) {
   .jumbotron img {
     width: 250px;
     height: 250px;
@@ -79,7 +79,7 @@ section#skill .konten img {
   box-shadow: 0 5px 5px white;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   section#skill .konten {
     display: flex;
     flex-wrap: wrap;
