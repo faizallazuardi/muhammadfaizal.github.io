@@ -9,9 +9,12 @@
   background: linear-gradient(to top, #92e1e2, #72b2e4);
 }
 
+section#hero {
+  background: linear-gradient(to bottom, #92e1e2, #72b2e4);
+}
+
 .jumbotron {
   padding-top: 5rem;
-  background: linear-gradient(to bottom, #92e1e2, #72b2e4);
 }
 
 .jumbotron img {
